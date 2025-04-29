@@ -432,7 +432,8 @@ button:hover {
 }
 
 .submit {
-  padding: 10px 175px 20px 175px;
+  padding: 10px 60px 20px 60px;
+  justify-self: center;
 }
 /* BUKU TAMU END */
 
